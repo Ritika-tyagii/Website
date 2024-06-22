@@ -1,0 +1,25 @@
+
+<html>
+
+<head>
+</head>
+<body>
+
+    <center>
+        <div class="cover">
+
+  <form>
+  
+    <input type="email" id="stdemail" placeholder=" Email" required>
+    <input type="password"minlength="8" id="stdpass" placeholder=" New Password" required>
+    <input type="password"  id="stdcpass"  minlength="8" placeholder=" Confirm Password" required>
+    
+   
+    <button type="submit">Submit</button>
+    
+
+  </form>
+    </center>
+         
+</body>
+</html>

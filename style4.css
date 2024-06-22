@@ -1,0 +1,19 @@
+#outer{
+	height: 1000px;
+	width: 1000px;
+	border:2px solid black;
+}
+.row{
+	height: 250px;
+	width: 250px;
+	float: left;
+}
+#a{
+	width:250px;
+height: 250px;
+background-color: brown;
+}
+#c{
+width:500px;
+height:250px;
+float:float;}
